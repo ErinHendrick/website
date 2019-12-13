@@ -23,6 +23,7 @@ The source of water at Lost Spring is not the Rocky Mountains as in local legend
 One diarist’s 1848 description of it was, "Came to a place, called 'Lost Spring', a most singular curiosity. The stream rises suddenly out of the ground, and after rushing over the sand a few yards, as suddenly sinks, and is no more seen" (Richardson, 11). 
 
 ## Water Is Life
+
 Usually travelers left in the cool of the evening carrying as much water as they could. Travelers used barrels and water kegs to transport this resource for use along the way, however, some wagons only carried one 5-gallon keg of water (Smith, 29). 
 
 As the Santa Fe trail is 870 miles long, travelers had to replenish this resource as often as they could and finding sources along the way was crucial to survival. Water from springs was especially desirable, since it was cool and fresh, compared to water near trail crossings which were contaminated with animal waste, or pools which could be warm and stagnant. 
