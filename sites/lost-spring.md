@@ -28,5 +28,9 @@ Susan Shelby Magoffin, the plucky young bride of a merchant, traveling in 1846, 
 Journals kept by travelers on the trail recount the prominent role searching for water had on their trail experience.  
 
 The journal of Meredith Miles Marmaduke, an American politician who worked as a trader on the Santa Fe Trail, describes crossing the Jornada in 1824: 
->“Traveled 30 miles; left our encampment at 4 o’clock, a.m., and travelled without making any halt until about 4 o’clock p.m., without a drop of water for our horses or mules, by which time many of them were nearly exhausted, as well as a number of the men; a dog which had travelled with us during our journey, this day fell down and expired, such was the extreme heat and suffering. Fortunately for us all at about 4
+>“Traveled 30 miles; left our encampment at 4 o’clock, a.m., and travelled without making any halt until about 4 o’clock p.m., without a drop of water for our horses or mules, by which time many of them were nearly exhausted, as well as a number of the men; a dog which had travelled with us during our journey, this day fell down and expired, such was the extreme heat and suffering. Fortunately for us all at about 4 o’clock a small ravine was discovered and pursued for a few miles, and after digging in the sand at the bottom of it, water was procured in sufficient quantity to satisfy both man and horse, but not till after five or six wells were sunk; and such was the ox’s mouth poured it down his throat.” The ox wandered off in the night still searching for water and was not retrieved. 
+
+Another danger, besides running out of water, was being a visitor on lands that had been inhabited for thousands of years by others. Writes Magoffin, “We are now at the great rendezvous of all the traders. Council Grove may be considered the dividing ridge between the civilized and barbarous, for now we may look out for hostile Indians” 
+
+
  
