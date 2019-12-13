@@ -9,9 +9,9 @@ Erin Hendrick
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="a map"
+  caption="A map of the Santa Fe trail from 1845. Lost spring is 30 miles west of Council Grove, on the eastern half of the trail in what is now Marion county, Kansas."
   image-url="LSmap.jpg"
-  source-url="https://google.com"
+  source-url="https://commons.wikimedia.org/w/index.php?curid=15515947"
 %}
 
 Lost Spring was a crucial site for travelers on the Santa Fe Trail because of its water. A naturally occurring spring that sometimes flowed and sometimes didnt (hence the name 'lost'), Lost Spring helped travelers replenish a critical resource during their long journey.
