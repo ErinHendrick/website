@@ -30,7 +30,7 @@ As the Santa Fe trail is 870 miles long, travelers had to replenish this resourc
 Aside from human consumption, animals were a consideration. Most wagons were pulled by oxen, and mules and horses were also used on the trail. Travelers also transported all manner of livestock, including cattle, sheep, and even pigs. Travelers caring for livestock had to time their travels so that grass and water would be available. 
 
 The most dangerous part of the trail because of lack of water was called the “Jornada,” meaning expedition, a part of the trail 60 miles long between the Arkansas river and Wagonbed spring. 
-William Becknell, one of the first to travel the trail, in 1821, supposedly ran out of water on this part of the trail. He and his team tried killing their dogs and cutting of their mules’ ears to drink their blood, so dehydrated were they. However, their expedition was saved when they spotted a bison gorged with water and drank from its stomach, later following its trail to a water source. 
+William Becknell, one of the first to travel the trail, in 1821, supposedly ran out of water on this part of the trail. He and his team tried killing their dogs and cutting off their mules’ ears to drink their blood, so dehydrated were they. However, their expedition was saved when they spotted a bison gorged with water and drank from its stomach, later following its trail to a water source. 
 
 Journals kept by travelers on the trail recount the prominent role searching for water had on their trail experience.  
 The journal of Meredith Miles Marmaduke, an American politician who worked as a trader on the Santa Fe Trail, describes crossing the Jornada in 1824: 
