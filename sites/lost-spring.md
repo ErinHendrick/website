@@ -11,3 +11,6 @@ Lost Spring was a crucial site for travelers on the Santa Fe Trail because of it
 ## The Source
 
 The source of water at Lost Spring is not the Rocky Mountains as in local legend, but the [Flint Hills](https://en.wikipedia.org/wiki/Flint_Hills) to the east, a limestone and flint rock outcropping that was covered by sea during the Permian geologic period, about 300 million years ago. Because of the rockiness of this region farmers never disturbed the tallgrass prairie. It remains the largest contiguous grassland of its kind and is now an EPA designated [ecoregion](http://www.kansasnativeplantsociety.org/ecoregions.php) This undisturbed region is the source of 14 springs in Marion county, Kansas. At Lost Spring, as bedrock dips, water appears and later returns to the sandy soil of the site.  
+
+One diarist’s 1848 description of it was, 'Came to a place, called 'Lost Spring', a most singular curiosity. The stream rises suddenly out of the ground, and after rushing over the sand a few yards, as suddenly sinks, and is no more seen' (Richardson, 11). 
+ 
