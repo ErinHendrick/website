@@ -1,7 +1,7 @@
 ---
 Lost Spring
-Erin Hendrick 
-12-13-19
+Erin Hendrick
+2019-12-13
 ---
 
 # Lost Spring
@@ -39,6 +39,9 @@ The journal of Meredith Miles Marmaduke, an American politician who worked as a 
 Susan Shelby Magoffin, the plucky young bride of a merchant, traveling in 1846, also describes being far from water: “We traveled till 11 o’clock with the hope of finding water…the oxen staggered under their yokes. One poor thing fell in the road and we almost gave him up for lost. His driver, though, a rather tender hearted lad, I presume…got all the water from the water kegs after the men had drank and opening the ox’s mouth poured it down his throat.” The ox wandered off in the night still searching for water and was not retrieved. 
 
 Another danger, besides running out of water, was being a visitor on lands that had been inhabited for thousands of years by others. Writes Magoffin, “We are now at the great rendezvous of all the traders. Council Grove may be considered the dividing ridge between the civilized and barbarous, for now we may look out for hostile Indians” 
+
+## Commerce in Kansa Territory 
+
 
 
  
