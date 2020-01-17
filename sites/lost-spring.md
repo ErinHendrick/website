@@ -22,6 +22,8 @@ The source of water at Lost Spring is not the Rocky Mountains as in local legend
 
 One diarist’s 1848 description of Lost Spring was, "Came to a place, called 'Lost Spring', a most singular curiosity. The stream rises suddenly out of the ground, and after rushing over the sand a few yards, as suddenly sinks, and is no more seen" (Richardson, 11). 
 
+For travelers on such a long and perilous journey, this spontaneous provision must have seemed like a gift from God. 
+
 ## Water Is Life
 
 Usually travelers left in the cool of the evening carrying as much water as they could. Travelers used barrels and water kegs to transport this resource for use along the way, however, some wagons only carried one 5-gallon keg of water (Smith, 29). 
