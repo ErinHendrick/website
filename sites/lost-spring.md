@@ -49,8 +49,41 @@ Another danger for merchants, besides running out of water, was being a visitor 
 
 ## Commerce in Kansa Territory 
 
-People have populated the North American continent since 24,000 BCE, and there is archaeological evidence for people populating the central part of the North American continent since 4500 BCE. In the 19th century, tribes that lived in the territory later known as Kansas were the Kansa (after which the state was named), Osage, Kiowa, Comanche, Cheyenne, and Wichita. Trade between these groups was extensive - there is archeological evidence for trade with people int eh region that later bacme California, with MExico, and regions further east. (Berlo and Phillips)
+People have populated the North American continent since 24,000 BCE, and there is archaeological evidence for people populating the central part of the North American continent since 4500 BCE. In the 19th century, tribes that lived in the territory later known as Kansas were the Kansa (after which the state was named), Osage, Kiowa, Comanche, Cheyenne, and Wichita. Trade between these groups and others on the continent was extensive - there is archeological evidence for trade with people in the region that later became California, with Mexico, and regions further east. (Berlo and Phillips)
 
-Tradesr from the United STates to the east were a new, althought hte SPanish had traded with the plains natives since _______. What was unique about this time period of trade was its volume and method.   these new traders brought was extensive commerce - $2 million between ___ and ________. Until Becknell in 1821, no one had used wagons on this route.
+Most trails originated as native american trails. (pull from Moor reading).  
+
+Although the Spanish had traded with the plains natives since _______, traders from the United States to the east was a new phenomenon. What was unique about this time period of trade was its volume and method - these new traders found a lucrative market - the estimate is that $2 million was made between ___ and ________, and until Becknell in 1821, no one had used wagons on this route. 
+
+A common idea for United states citizens beginning to trade in this territory is that it was unoccupied. (wide open spaces reading. Seeing map as empty has an advantage – can move in). ways natives used resources made it look unoccupied. 
+
+Quote from Nathan howe – plus who he was. 
+
+
+governement policy - 
+people in Kansas bc of T of T?  
+treaty with Kansa
+Ways United States govenment protected these "foot soldiers of Manifest Destiny" (where is this from?) dragoons, etc. 
+
+whatever risk the payoff was worth it for merchants
+
+effect on native community - buffalo population. By ___ ? what did native and non-native communities look like? When LS town founded? 
+
+Creating History 
+how DAR put up markers
+how when a generation is dying they want to preserve their memories and commemoration starts (what reading is this from?) 
+Perhaps the significantce also given to the SF Trail by United States citizens is how its territories later became part of the US. Getting goods to soldiers/paving the way for annexation of territory, more states. 
+
+Bibliography
+
+Schmidt
+Berlo Phillips
+Marmaduke
+Richardson
+Smith
+Magoffin
+Moor
+Zogry? 
+
 
  
