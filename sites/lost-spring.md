@@ -1,7 +1,7 @@
 ---
-Lost Spring
-Erin Hendrick
-2019-12-13
+title: Lost Spring
+author: Erin Hendrick
+date: 2019-12-13
 ---
 
 # Lost Spring
@@ -26,11 +26,13 @@ For travelers on such a long and perilous journey, this spontaneous provision mu
 
 ## Water Is Life
 
-Usually travelers left in the cool of the evening carrying as much water as they could. Travelers used barrels and water kegs to transport this resource for use along the way, however, some wagons only carried one 5-gallon keg of water (Smith, 29). 
+Although missionaries , most of the traffic during the heyday of the Santa Fe Trail between 1821 and 1880 (when the railroad was introduced) was made up of merchants from the east. The Santa Fe Trail was an international route, linking goods from the United States, which could have originated in Europe, to the territory of Mexico. Water was a vital resource for the purposes of commerce. Usually travelers left in the cool of the evening carrying as much water as they could. Travelers used barrels and water kegs, however, some wagons only carried one 5-gallon keg of water (Smith, 29). 
 
 As the Santa Fe trail is 870 miles long, travelers had to replenish this resource as often as they could and finding sources along the way was crucial to survival. Water from springs was especially desirable, since it was cool and fresh, compared to water near trail crossings which were contaminated with animal waste, or pools which could be warm and stagnant. 
 
-Aside from human consumption, animals were a consideration. Most wagons were pulled by oxen, and mules and horses were also used on the trail. Travelers also transported all manner of livestock, including cattle, sheep, and even pigs. Travelers caring for livestock had to time their travels so that grass and water would be available. 
+Aside from human consumption, animals were a consideration. Most wagons were pulled by oxen, and mules and horses were also used on the trail. Travelers also transported all manner of livestock, including cattle, sheep, and even pigs. Historian Steve Schmidt estimates that over 15,000 mules and oxen were used to pull 1,558 wagons over the trail between 1822 and 1843 (3). Travelers caring for livestock had to time their travels so that grass and water would be available.
+
+Lost Spring, located 15 miles west from Diamond Spring and 17 miles east of Cottonwood Crossing, was a relatively secure spot, water-wise, *if* the spring was flowing. However, further west water sources were nonexistent. 
 
 The most dangerous part of the trail because of lack of water was called the “Jornada,” meaning expedition, a part of the trail 60 miles long between the Arkansas river and Wagonbed spring. 
 William Becknell, so-called "Father of the Santa Fe Trail" (one of the first to travel the trail, in 1821), supposedly [ran out of water](https://www.kshs.org/kansapedia/morton-county-kansas/15320) on this part of the trail. He and his team tried killing their dogs and cutting off their mules’ ears to drink their blood, so dehydrated were they. However, their expedition was saved when they spotted a bison gorged with water and drank from its stomach, later following its trail to a water source. 
@@ -41,9 +43,12 @@ The journal of [Meredith Miles Marmaduke](https://en.wikipedia.org/wiki/Meredith
 
 [Susan Shelby Magoffin](http://www.womenhistoryblog.com/2014/05/susan-shelby-magoffin.html), the plucky young bride of a merchant, traveling in 1846, also describes being far from water: “We traveled till 11 o’clock with the hope of finding water…the oxen staggered under their yokes. One poor thing fell in the road and we almost gave him up for lost. His driver, though, a rather tender hearted lad, I presume…got all the water from the water kegs after the men had drank and opening the ox’s mouth poured it down his throat.” The ox wandered off in the night still searching for water and was not retrieved. 
 
-Another danger, besides running out of water, was being a visitor on lands that had been inhabited for thousands of years by others. Writes Magoffin, “We are now at the great rendezvous of all the traders. [Council Grove](https://www.legendsofamerica.com/council-grove-kansas/) may be considered the dividing ridge between the civilized and barbarous, for now we may look out for [hostile Indians](https://www.independent.org/publications/tir/article.asp?id=803)” 
+Another danger for merchants, besides running out of water, was being a visitor on lands that others had called their home for thousands of years. As Council Grove was the last trading point between the start of the trail and its destination of Santa Fe, it held symbolism for these visitors as the last point of "civilization". Writes Magoffin, “We are now at the great rendezvous of all the traders. [Council Grove](https://www.legendsofamerica.com/council-grove-kansas/) may be considered the dividing ridge between the civilized and barbarous, for now we may look out for [hostile Indians](https://www.independent.org/publications/tir/article.asp?id=803)” 
 
 ## Commerce in Kansa Territory 
 
+People have populated the North American continent since 24,000 BCE, and there is archaeological evidence for people populating the central part of the North American continent since 4500 BCE. In the 19th century, tribes that lived in the territory later known as Kansas were the Kansa (after which the state was named), Osage, Kiowa, Comanche, Cheyenne, and Wichita. Trade between these groups was extensive - there is archeological evidence for trade with people int eh region that later bacme California, with MExico, and regions further east. (Berlo and Phillips)
+
+Tradesr from the United STates to the east were a new, althought hte SPanish had traded with the plains natives since _______. What was unique about this time period of trade was its volume and method.   these new traders brought was extensive commerce - $2 million between ___ and ________. Until Becknell in 1821, no one had used wagons on this route.
 
  
